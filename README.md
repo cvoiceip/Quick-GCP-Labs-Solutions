@@ -1,1 +1,1 @@
-# cvoiceip-Quick-GCP-Labs-Solutions
+# quick-GCP-Labs-Solutions
